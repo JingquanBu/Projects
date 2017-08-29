@@ -1,0 +1,35 @@
+﻿@model IEnumerable<HotelReservation.Model.Hotel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            <img src="/images/@item.ImageUrl" alt="@item.Details"/>
+        </td>
+        <td>
+            @Html.ActionLink(item.Details, "Details", new { id = item.HotelId })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Review)
+        </td>
+        
+    </tr>
+}
+
+</table>

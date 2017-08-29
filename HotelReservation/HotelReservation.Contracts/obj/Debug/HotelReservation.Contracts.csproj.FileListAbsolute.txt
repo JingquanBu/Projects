@@ -1,0 +1,4 @@
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Contracts\bin\Debug\HotelReservation.Contracts.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Contracts\bin\Debug\HotelReservation.Contracts.pdb
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Contracts\obj\Debug\HotelReservation.Contracts.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Contracts\obj\Debug\HotelReservation.Contracts.pdb

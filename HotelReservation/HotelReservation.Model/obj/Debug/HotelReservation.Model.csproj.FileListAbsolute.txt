@@ -1,0 +1,9 @@
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\HotelReservation.Model.dll.config
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\HotelReservation.Model.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\HotelReservation.Model.pdb
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\EntityFramework.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\EntityFramework.xml
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\obj\Debug\HotelReservation.Model.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.Model\obj\Debug\HotelReservation.Model.pdb

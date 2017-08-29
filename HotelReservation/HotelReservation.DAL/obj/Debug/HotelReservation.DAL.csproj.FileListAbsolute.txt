@@ -1,0 +1,17 @@
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.DAL.dll.config
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.DAL.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.DAL.pdb
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\EntityFramework.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.Contracts.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.Model.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.Contracts.pdb
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.Model.pdb
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\HotelReservation.Model.dll.config
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\EntityFramework.xml
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\obj\Debug\HotelReservation.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\obj\Debug\HotelReservation.Contracts.Migrations.initial.resources
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\obj\Debug\HotelReservation.DAL.csproj.GenerateResource.Cache
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\obj\Debug\HotelReservation.DAL.dll
+C:\Users\jingq\OneDrive\Documents\Visual Studio 2017\Projects\HotelReservation\HotelReservation.DAL\obj\Debug\HotelReservation.DAL.pdb
